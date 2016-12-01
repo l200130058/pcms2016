@@ -1,8 +1,10 @@
 # Drupal Tutorial Video Review
+***
+
 
 ## Video 1 - Overview
-***
-##### Video pertama berisi pengenalan project, dan pendahuluan project yang memperkenalkan produk jadi dari project yang akan dikerjakan pada video-video berikutnya.
+
+#### Video pertama berisi pengenalan project, dan pendahuluan project yang memperkenalkan produk jadi dari project yang akan dikerjakan pada video-video berikutnya.
 
 ## Video 2 - Installing Administration Module + Coffee
 
@@ -11,4 +13,4 @@
 
 ## Video 3 - Installing Bootstrap Theme
 
-#### Pada video ini, beberapa penjelasan mengenai tahap-tahap installasi tema Bootstrap pada drupal dijelaskan. Mulai dari langkah installasi tema melalui url, juga installasi jquery update melalui url. Jquery update pada drupal berguna untuk memperbarui dan mengontrol versi jquery yang digunakan. 
+#### Pada video ini, beberapa penjelasan mengenai tahap-tahap installasi tema Bootstrap pada drupal dijelaskan. Mulai dari langkah installasi tema melalui url, juga installasi jquery update melalui url. Jquery update pada drupal berguna untuk memperbarui dan mengontrol versi jquery yang digunakan.  
