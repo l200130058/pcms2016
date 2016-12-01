@@ -14,3 +14,11 @@
 ## Video 3 - Installing Bootstrap Theme
 
 #### Pada video ini, beberapa penjelasan mengenai tahap-tahap installasi tema Bootstrap pada drupal dijelaskan. Mulai dari langkah installasi tema melalui url, juga installasi jquery update melalui url. Jquery update pada drupal berguna untuk memperbarui dan mengontrol versi jquery yang digunakan.  
+
+## Video 4 - Creating a sub Theme
+
+#### Video ini menjelaskan bagaimana cara membuat sub-theme yang berguna untuk menjadi ladang eksperimen dan lebih tepat digunakan untuk mengisolasi kerusakan pada tahap development dan mencegah override setting pada saat fase development.
+
+## Video 5 - Adding Bootstrap Source Files (Using Method 1)
+
+#### Pada video ini, diperkenalkan bagaimana berurusan dengan CDN dan memanfaatkan source files untuk mmengkustomisasi drupal-bootstrap.
