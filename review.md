@@ -1,7 +1,7 @@
 # Drupal Tutorial Video Review
 ### Oleh :  Muhammad Fikri Khaidir
 ### NIM  :  L200130058
-
+#
 
 ## Video 1 - Overview
 
@@ -72,4 +72,40 @@
 
 
 ## Video 21 - Creating Article Views - Table Layout
-#### Mengatur layout artikel yang disajikan dalam bentuk grid dan bagaimana artikel tersebut ditampilkan.
+#### Mengatur layout artikel yang disajikan dalam bentuk table dan bagaimana artikel tersebut ditampilkan.
+
+## Video 22 - Configuring Layout Display with Display Suite Module
+#### Video ke 22 ini berisi bagaimana cara menginstall **Display Suite Module** untuk mengatur/me-manage tampilan layout konten terhadap region-region yang ada.
+
+## Video 23 - Creating Bootstrap Tabs with Field Group Module
+#### Video ini berisi cara menginstall **Field Group Module** dengan **Bootstrap Fieldgroup** yang digunakan untuk membuat tab pada konten. dalam video tersebut, diberi contoh dalam pembuatan tab pada artikel yang dapat memisah antara konten full story, galeri foto dan video.
+
+## Video 24 - Working With Responsive Embeded
+ Video ini berisi mengenai pemanfaatan embedded Responsive class yang dapat dimanfaatkan dengan **module Field Formatter Class**. dengan begitu, video yang ada pada halaman (dalam tag iframe), dapat menyesuaikan ukuran dengan ukuran window yang ada. 
+
+## Video 25 - Creating Photo Gallery With Bootstrap Moda
+####
+
+## Video 26 - Creating FAQ and Views
+####
+
+## Video 27 -  Adding icons - GlyphiconFont awesome (Part I)
+####
+
+## Video 28 - Adding icons - Glyphicon_Font awesome (Part II)
+####
+
+## Video 29 - Creating Contact Webform
+####
+
+## Video 30 -  Creating Footer's Block
+####
+
+## Video 31
+####
+
+## Video 32
+####
+
+## Video 33
+####
