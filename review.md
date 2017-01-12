@@ -1,4 +1,4 @@
-# Drupal Tutorial Video Review
+# Drupal Tutorial Video Review + Module explanation
 ### Oleh :  Muhammad Fikri Khaidir
 ### NIM  :  L200130058
 #
@@ -84,27 +84,22 @@ Video ini berisi cara menginstall **Field Group Module** dengan **Bootstrap Fiel
 Video ini berisi mengenai pemanfaatan embedded Responsive class yang dapat dimanfaatkan dengan **module Field Formatter Class**. dengan begitu, video yang ada pada halaman (dalam tag iframe), dapat menyesuaikan ukuran dengan ukuran window yang ada.
 
 ## Video 25 - Creating Photo Gallery With Bootstrap Modal
-
+Dalam video ini, Ditunjukkan bagaimana caranya memasukkan konten kedalam modal yang dapat di-call menggunakan thumbnail foto pada galeri.
 
 ## Video 26 - Creating FAQ and Views
-
+Dalam video tutorial ini, sebuah tipe konten dibuat sebagai FAQ atau Frequently Asked Question yang berguna untuk menampung pertanyaan dan jawaban yang umum ditanyakan. dalam video juga disebutkan, untuk membantu proses backend, ditambahkan 2 module yaitu **Administration Views** untuk menggantikan halaman overview administrasi dengan tampilan yang sebenarnya dan **Views Bulk Operation Module** yang digunakan untuk memilih beberapa item dalam satu operasi.
 
 ## Video 27 -  Adding icons - GlyphiconFont awesome (Part I)
-
+Pada video ini, ** Module Icon API** digunakan untuk menyediakan integrasi bundel icon pada web project. pada kasus ini, akan digunakan untuk menggunakan **Font_awesome Icons**. sebelum menggunakan, Font_awesome pack harus didownload terlebih dahulu.
 
 ## Video 28 - Adding icons - Glyphicon_Font awesome (Part II)
-
+Dalam bagian kedua ini, pembahasan lebih secara praktikal bagaimana cara menggunakan icon Font_awesome pada konten web project.
 
 ## Video 29 - Creating Contact Webform
-
+**Webform module** digunakan pada video ini. Webform module sendiri digunakan pada dasarnya untuk membuat form dan kuesioner. dan pada video ini, form tersebut digunakan untuk membuat halaman kontak agar pengunjung dapat memberi pesan kepada admin.
 
 ## Video 30 -  Creating Footer's Block
+Video ini menunjukkan bagaimana cara membuat footer. dan pada footer yang dibuat, digunakan **Token Filter Module** untuk merubah elemen-elemen yang diinginkan dengan menggunakan filter pada html footer.
 
 
-## Video 31
-
-
-## Video 32
-
-
-## Video 33
+*Note : Semua module yang digunakan dibahas bersamaan dengan review setiap video tutorial. *
