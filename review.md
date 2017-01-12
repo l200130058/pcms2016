@@ -3,6 +3,8 @@
 ### NIM  :  L200130058
 #
 
+---------------------------------------------------------------------------------------------
+
 ## Video 1 - Overview
 
  Video pertama berisi pengenalan project, dan pendahuluan project yang memperkenalkan produk jadi dari project yang akan dikerjakan pada video-video berikutnya.
@@ -101,5 +103,6 @@ Dalam bagian kedua ini, pembahasan lebih secara praktikal bagaimana cara menggun
 ## Video 30 -  Creating Footer's Block
 Video ini menunjukkan bagaimana cara membuat footer. dan pada footer yang dibuat, digunakan **Token Filter Module** untuk merubah elemen-elemen yang diinginkan dengan menggunakan filter pada html footer.
 
+---------------------------------------------------------------------------------------------
 
 *Note : Semua module yang digunakan dibahas bersamaan dengan review setiap video tutorial.*
