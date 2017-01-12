@@ -102,4 +102,4 @@ Dalam bagian kedua ini, pembahasan lebih secara praktikal bagaimana cara menggun
 Video ini menunjukkan bagaimana cara membuat footer. dan pada footer yang dibuat, digunakan **Token Filter Module** untuk merubah elemen-elemen yang diinginkan dengan menggunakan filter pada html footer.
 
 
-*Note : Semua module yang digunakan dibahas bersamaan dengan review setiap video tutorial. *
+*Note : Semua module yang digunakan dibahas bersamaan dengan review setiap video tutorial.
